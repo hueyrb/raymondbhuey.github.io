@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This is a website in progress. I can provide .pdfs of most of my publications. Just send a list to hueyrb\@uw.edu.

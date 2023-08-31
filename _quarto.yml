@@ -1,20 +1,27 @@
 project:
   type: website
   output-dir: docs
-
-website:
-  title: "raymondbhuey.github.io"
+image: RayPatagonia.png
+date-modified: last-modified
+website:git 
+  title: "Raymond B. Huey"
   navbar:
-    left:
+    title: Raymond B. Huey
+    right:
+      - text: "home"
       - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "CV"
+      - href: Huey2023_CV.pdf
+      - text: "Publications"
+      - href: Publications.qmd
+ 
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
+    page-layout: full
+    
 editor: visual
 
