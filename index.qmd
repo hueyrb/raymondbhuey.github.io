@@ -1,11 +1,60 @@
 ---
-title: "raymondbhuey.github.io"
+project:
+  type: website
+  output-dir: docs
+# title: "Raymond B. Huey"
+image:  RayPatagonia.png
+website:
+  title:  "Blljh oidufo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+about:
+  template: trestles
+  image-shape:  rectangle
+  image-width:  23em
+  links: 
+    - text: Email
+      href: mailto:hueyrb@uw.edu
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
 ---
 
-This is a Quarto website.
+Welcome to my website. I'm a retired Professor of Biology at the University of Washington (Seattle).  My main research is in ecological and evolutionary physiology. I'm still active in research in thermal biology of ectotherm, success and death rates of Himalayan mountaineers, among other topics. I'm also an avid hiker, backpacker, and home cook.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*EDUCATION*
 
-```{r}
-1 + 1
-```
+1971-75       Harvard University Ph.D. (Biology June 1975)
+
+1967-69       University of Texas, Austin M.A. (Zoology June 1969)
+
+1964-66       University of California, Berkeley  A.B. Honors (Zoology Jan 1966)
+
+1961-64       Deep Springs College
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+2014-		Emeritus Professor, Department of Biology, University of Washington
+
+2008-11	Chair, Department of Biology, University of Washington
+
+1999-2000	Acting Chair, University of Washington
+
+1989-98	Associate Chair, University of Washington (alternate years, except 1991- 93)
+
+1987 (spring)	Distinguished Visiting Professor, University of Michigan, Ann Arbor
+
+1984-14	Professor, Department of Zoology/Biology, University of Washington
+
+1980-84      	Associate Professor, Department of Zoology, University of Washington
+
+1977-80      	Assistant Professor, Department of Zoology, University of Washington
+
+1975-77      	Miller Research Fellow, University of California, Berkeley
