@@ -1,6 +1,6 @@
 
 ---
-title: "Raymond B. Huey"
+title: "Raymond B. Huey" 
 image: RayPatagonia.png
 about:
   template: trestles
@@ -8,7 +8,7 @@ about:
   image-width: 20em
 ---
 
-Welcome to my (“work in progress”) website. I’m an Emeritus Professor of Biology at the University of Washington (Seattle). I retired in 2014. My main research is in ecological and evolutionary physiology of lizards and Drosophila. I’m still active in research involving the thermal biology of ectotherms (lizards), the success and death rates of Himalayan mountaineers, among other topics. I’m also an avid hiker, backpacker, and home cook.
+Welcome to my (“a work in progress”) website. I’m an Emeritus Professor of Biology at the University of Washington (Seattle). I retired in 2014. My main research is in ecological and evolutionary physiology of lizards and *Drosophila*. I’m still active in research focused on the thermal biology of ectotherms (lizards), the success and death rates of Himalayan mountaineers, among other topics. I’m also an avid hiker, backpacker, and home cook.
 
 ---
 

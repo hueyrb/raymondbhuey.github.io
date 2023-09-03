@@ -1,5 +1,34 @@
 ---
 title: "About"
 ---
+I'm an Emeritus Professor of Biology at the University of Washington. Although I'm definitely getting 'long in the tooth,' I still enjoying doing biological research and learnign new approaches.
 
-This is a website in progress. I can provide .pdfs of most of my publications. Just send a list to hueyrb\@uw.edu.
+**What are my main contributions?**
+
+Mhy overall mission has to be to find ways to quantify how body temperature influences the ecology and evolution of ectotherms. While spending 10 1/2 months studing lizards in the Kalahari Desert, I realize that temperature had a major impact on when and where lizards were active.  
+
+1) I was an early advocate of using phylogenies to guide the choice of species (within clades) and analyzes of multi-species comparative data.
+
+2) R. D. Stevenson, Joel Kingsolver, and I highlighted the idea of 'thermal performance curves', which quantify how body temperature influences organismal-level performance. We explored how can be used to estimate performance in the field as well as how these evolve over time.
+
+3) Monty Slatkin and modeled how the costs of themoregulation influenced thermoregulatory strategies (regulation vs. passivity). This was the first theoretical attempt put thermoregulation into an ecological context. A field study in Puerto Rico was consistent with expectations.
+
+4)  Peter Kareive, Joel Kingsolver and I organized a large NSF workhop on global and climate change. The resulting book was the first to focus atteention on global change.
+
+4)  With George Gilchrist and Wayne Crlll, I used *Drosophila* to evaluate whether thermal performance curves can adapt rapidly in nature, especially as regards climate warming. We also looked a cross-generation and developmental effects.
+
+4) With Xavier Eguskitza and Richard Salisbury, I analyzed how supplemental oxygen, age, and sex influenced the probabilities of success and of death on Himalayan peaks, especially Mt. Everest. These studies provide mountaineers considering an attempt on these great peaks with an option to undertand odd of success and or death.
+
+5) With Don Miles, I studied how climate and geography influence parental choice of the names given to their babies. 
+
+6) Decades ago, Steve Stearns and I laid out our divergent views on how to be a graduate student. Our advice (rather different) has proven valuable to graduates for more than 1/2 century. In 2010 I took a fresh look at thost old paper.
+
+**Non-research contributions**
+
+I am most proud of proposing and establishing the George A. 
+Bartholomew Award for Young Investigators (originally American Society of Zoologists, currently Society for Integrative and Comparative Biology -- SCIB).
+
+I established the Ingrith Deyrup-Olsen Award here in the Department of Biology -- it honors the best Teaching Assistant in the Department.
+
+The Division of Ecology and Evolution established a best paper and best poster award at the annual meeting of SICB.  These awards were named after me. A best-paper award when I was a grad student had positive effects on my career, and having this award named after me is especially meaningful.
+
